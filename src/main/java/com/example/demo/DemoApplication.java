@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import com.example.demo.entity.User;
+import com.example.demo.service.UserService;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.swagger.v3.oas.models.ExternalDocumentation;

@@ -1,4 +1,5 @@
-package com.example.demo;
+package com.example.demo.entity;
+import com.example.demo.entity.Geo;
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.Embedded;
 
